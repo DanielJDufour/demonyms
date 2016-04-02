@@ -945,13 +945,9 @@ yaracuyano	Yaracuy
 yaracuyanos	Yaracuy
 yaracuyana	Yaracuy
 yaracuyanas	Yaracuy
-
-zaragocí
-	Zaragoza
-
-zaragocíes   o
-  zaragocís[1]
-	Zaragoza
+zaragocí	Zaragoza
+zaragocíe	Zaragoza
+zaragocís	Zaragoza
 zaragozano	Zaragoza
 zaragozanos	Zaragoza
 zaragozana	Zaragoza
